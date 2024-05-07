@@ -1,2 +1,2 @@
 all:
-	cargo build --target thumbv7em-none-eabihf
+	 cargo build --target target.json
